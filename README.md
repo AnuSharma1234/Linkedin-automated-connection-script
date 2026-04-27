@@ -17,8 +17,8 @@ Automatically send a custom follow-up message to new LinkedIn connections the mo
 ## 📁 Project Structure
 
 ```
-linkedin_bot/
-├── linkedin_auto_message.py   # Main script
+Linkedin-automated-connection-script/
+├── main.py   # Main script
 ├── .env                       # Your credentials (never commit this)
 ├── .env.example               # Credentials template
 ├── linkedin_sent.json         # Auto-generated log of messaged profiles
@@ -33,8 +33,8 @@ linkedin_bot/
 **1. Clone or download this repo**
 
 ```bash
-git clone https://github.com/yourusername/linkedin-bot.git
-cd linkedin-bot
+git clone https://github.com/AnuSharma1234/Linkedin-automated-connection-script.git
+cd Linkedin-automated-connection-script
 ```
 
 **2. Install dependencies**
